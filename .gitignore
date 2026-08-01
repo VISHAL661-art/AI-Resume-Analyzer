@@ -4,3 +4,6 @@
 **/uploads
 .DS_Store
 *.log
+# VS Code
+.vscode/
+
