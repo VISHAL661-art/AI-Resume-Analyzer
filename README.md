@@ -231,19 +231,17 @@ No manual table creation is required.
 
 ### Home Page
 
-(Add Screenshot)
+<img width="1919" height="902" alt="image" src="https://github.com/user-attachments/assets/e91ddeca-d71e-450c-a8f3-424bd12fd759" />
+
 
 ### Login
 
-(Add Screenshot)
+<img width="1908" height="896" alt="image" src="https://github.com/user-attachments/assets/2bba902f-75fc-4497-a6d0-ba6f8039d729" />
+
 
 ### Dashboard
 
-(Add Screenshot)
-
-### Resume Analysis
-
-(Add Screenshot)
+<img width="1634" height="900" alt="image" src="https://github.com/user-attachments/assets/bad91f26-2fbd-41d1-a408-91a429eb8c96" />
 
 ---
 
