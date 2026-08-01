@@ -1,0 +1,6 @@
+# Root gitignore
+**/node_modules
+**/target
+**/uploads
+.DS_Store
+*.log
