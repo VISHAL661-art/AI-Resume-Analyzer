@@ -6,4 +6,7 @@
 *.log
 # VS Code
 .vscode/
+# Environment files
+.env
+.env.*
 
